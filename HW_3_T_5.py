@@ -24,7 +24,7 @@ while True:
         summ = my_sum(nums) + summ
         print(summ)
         break
-    # my_sum(nums)
+    my_sum(nums)
     summ = my_sum(nums) + summ
     print(summ)
 
